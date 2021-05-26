@@ -10,6 +10,6 @@ The exercises in this lab will walk you through the steps to:
  * Tableau
   * How to connect to Snowflake
   * How to build visualizations
-    *Maps, Data Grouping, Bar Chart, Line Chart
+    * Maps, Data Grouping, Bar Chart, Line Chart
   * How to leverage quick table calculations
   * How to leverage Tableau Server
